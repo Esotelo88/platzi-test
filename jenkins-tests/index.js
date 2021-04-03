@@ -1,3 +1,3 @@
-module.exports = (a, b, c) => {
-  return a + b + c;
+module.exports = (a, b, c, d) => {
+  return a + b + c + d;
 }
